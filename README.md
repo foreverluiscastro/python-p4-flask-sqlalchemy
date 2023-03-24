@@ -1,6 +1,6 @@
 # Flask-SQLAlchemy
 
-## Learning Goals
+## Learning Goals 
 
 - Build and run a Flask application on your computer.
 - Extend a Flask application to meet the unique requirements of different projects.
